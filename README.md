@@ -1,6 +1,6 @@
 # megaproject
-here a used a git command like this:
-git clone https://mycode.github.copy/
+This repositoryes i used a git command like this:
+git clone https://github.com/WhilsoM/megaproject.git
 git status
 git add .
 git push
